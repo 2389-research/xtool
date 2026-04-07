@@ -5,6 +5,7 @@ Xcode-free iOS development with xtool - build SwiftPM apps on Linux, Windows, an
 ## Installation
 
 ```bash
+/plugin marketplace add 2389-research/claude-plugins
 /plugin install xtool@2389-research
 ```
 
